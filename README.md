@@ -1,7 +1,7 @@
 # Flickd AI Hackathon: Smart Tagging & Vibe Classification Engine
 
 **Submission for the Flickd AI Hackathon**
-**By: [Your Name Here]**
+**By: [Singasani Lasya]**
 
 ---
 
